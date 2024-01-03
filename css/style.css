@@ -13,7 +13,7 @@ html{
     scroll-snap-type: y mandatory;
 }
 /* SCROLL SNAP */
-.servicios,.contenedor-header, .formulario,.foooter{
+.servicios,.contenedor-header, .formulario,.footer{
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
